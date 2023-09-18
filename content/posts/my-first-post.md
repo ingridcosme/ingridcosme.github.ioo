@@ -15,3 +15,5 @@ Esta é a primeira página criada com o comando hugo new contente pasta/arquivo.
 Depois é só rodar com hugo server -D
 
 Depois é só publicar com hugo
+
+Quero ver as mudanças no site
